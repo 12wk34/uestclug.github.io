@@ -77,5 +77,5 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: hexo
+deploy: master
   type:
